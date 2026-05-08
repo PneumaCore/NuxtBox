@@ -1,0 +1,27 @@
+# Nuxt
+.nuxt
+.output
+dist
+
+# Node
+node_modules
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing
+coverage
